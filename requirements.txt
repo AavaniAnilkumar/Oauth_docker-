@@ -1,0 +1,9 @@
+flask
+flask-JWT-Extended
+flask-sqlalchemy
+sqlalchemy
+python-dotenv
+flask-restful
+mysql-connector-python
+requests
+pymysql
